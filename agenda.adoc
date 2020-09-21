@@ -14,7 +14,7 @@ All times on the agenda are in UTC-4/EDT (Washington D.C. time).
 |10 minutes | API Security Considerations | Andreas Matheus (Secure Dimensions)
 |25 minutes |Questions & Answers|
 3+|*29 September 2020*
-|09:00-09:05 |Welcome & objectives &#10036; | Gobe Hobona (OGC) and Peter Parslow (Ordnance Survey)
+|09:00-09:05 |Welcome, objectives & sponsor's remarks &#10036; | Gobe Hobona (OGC) and Peter Parslow (Ordnance Survey)
 |09:05-09:10 |Sprint programme & way of working &#10036; |  Gobe
 |09:10-09:20 |Sprint goals for OGC API - Common - Part 2: Geospatial Data | Chuck Heazel (Heazel Tech)
 |09:20-09:30 |Sprint goals for OGC API - Features - Part 4: Simple Transactions | Panagiotis 'Peter' A. Vretanos (CubeWerx)
