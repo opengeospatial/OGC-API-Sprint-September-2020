@@ -1,0 +1,23 @@
+== API Specs
+
+=== Focus of the Sprint
+
+* OGC API - Common - Part 2: Geospatial Data
+** spec http://docs.opengeospatial.org/DRAFTS/20-024.pdf
+** repository https://github.com/opengeospatial/oapi_common/tree/master/collections
+
+* OGC API - Features - Part 4: Simple Transactions
+** spec http://docs.opengeospatial.org/DRAFTS/20-002.html
+** repository https://github.com/opengeospatial/ogcapi-features/tree/master/extensions/transactions/simple
+
+
+=== Other related specs
+
+* OGC API - Common - Part 1: Core
+** repository http://docs.opengeospatial.org/DRAFTS/19-072.pdf
+
+* OGC API - Features - Part 1: Core
+** spec http://docs.opengeospatial.org/is/17-069r3/17-069r3.html
+
+* OpenAPI
+** spec https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.1.md

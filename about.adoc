@@ -1,0 +1,12 @@
+== About the September 2020 OGC API Sprint
+
+The sprint will be held through remote participation/web-conferencing from September 29th to 30th, 2020 starting at 09:00am EDT on the first day, and finishing at 05:00pm EDT on the second day. An OGC Sprint is a collaborative and inclusive event driven by innovative and rapid programming with minimum process and organisation constraints to support the development of new applications and open standards. The participants will prototype implementations of the draft OGC API - Maps specification, identify key requirements and document the requirements.
+
+The sprint will cover the draft http://docs.opengeospatial.org/DRAFTS/20-002.html[OGC API - Features - Part 4: Simple Transactions] specification which is an extension of the http://docs.opengeospatial.org/is/17-069r3/17-069r3.html[OGC API - Features - Part 1: Core] standard. The draft http://docs.opengeospatial.org/DRAFTS/20-002.html[OGC API - Features - Part 4: Simple Transactions] specification presents an extension that defines the behaviour of a server that supports simple transactions. Simple transactions are transactions that add, replace, modify or delete individual resources from a single collection.
+
+The sprint will also cover the draft http://docs.opengeospatial.org/DRAFTS/20-024.pdf[OGC API - Common - Part 2: Geospatial Data] specification, previously titled "OGC API - Common - Part 2: Collections". The draft specification provides a common connection between the API landing page and resource-specific details. That connection includes metadata that describes the collections of hosted resources, common parameters for selecting subsets of those collections, and URI templates for identifying the above. This common connection is sufficient to start the client down the path to resource discovery.
+
+In addition to the aforementioned specifications, the sprint will also explore __Security__ considerations for OGC API standards.
+
+
+More information and a registration form for all of the sprints can be found at https://portal.ogc.org/public_ogc/register/q3_api.php
