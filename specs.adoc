@@ -9,7 +9,7 @@
 * OGC API - Features - Part 4: Simple Transactions
 ** spec http://docs.opengeospatial.org/DRAFTS/20-002.html
 ** repository https://github.com/opengeospatial/ogcapi-features/tree/master/extensions/transactions/simple
-** OpenAPI definition documents https://github.com/opengeospatial/ogcapi-features/tree/master/extensions/transactions/simple/openapi
+** OpenAPI definition documents https://app.swaggerhub.com/apis/CubeWerx/a-sample_api_conforming_to_the_draft_standard_ogc_api_features_part_1_core_ogc_api_features_part_4_simple_transactions/1.0.0#
 
 
 === Other related specs
