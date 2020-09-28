@@ -9,15 +9,18 @@
 * OGC API - Features - Part 4: Simple Transactions
 ** spec http://docs.opengeospatial.org/DRAFTS/20-002.html
 ** repository https://github.com/opengeospatial/ogcapi-features/tree/master/extensions/transactions/simple
+** OpenAPI definition documents https://github.com/opengeospatial/ogcapi-features/tree/master/extensions/transactions/simple/openapi
 
 
 === Other related specs
 
 * OGC API - Common - Part 1: Core
 ** repository http://docs.opengeospatial.org/DRAFTS/19-072.pdf
+** OpenAPI definition documents https://github.com/opengeospatial/oapi_common/tree/master/core/openapi
 
 * OGC API - Features - Part 1: Core
 ** spec http://docs.opengeospatial.org/is/17-069r3/17-069r3.html
+** OpenAPI definition documents https://github.com/opengeospatial/ogcapi-features/tree/master/core/openapi
 
 * OpenAPI
 ** spec https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.1.md
