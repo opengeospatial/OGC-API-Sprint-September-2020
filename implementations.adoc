@@ -33,6 +33,10 @@
 | OGC API - Features
 | https://github.com/pvretano[Panagiotis (Peter) A. Vretanos]
 
+| https://eratosthenes.pvretano.com/cubewerx/cubeserv/default/ogcapi/zoomstack[CubeWerx hosting OS Open Zoomstack data (secure*)]
+| OGC API - Features
+| https://github.com/pvretano[Panagiotis (Peter) A. Vretanos]
+
 | TBA
 | TBA
 | TBA
@@ -42,6 +46,7 @@
 | TBA
 |===
 
+{empty}* transactions require OpenAPI authentication through "https://www.authenix.eu"
 
 === Client-side implementations
 
