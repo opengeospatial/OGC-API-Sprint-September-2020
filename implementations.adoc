@@ -33,7 +33,7 @@
 | OGC API - Features
 | https://github.com/pvretano[Panagiotis (Peter) A. Vretanos]
 
-| https://eratosthenes.pvretano.com/cubewerx/cubeserv/default/ogcapi/zoomstack[CubeWerx hosting OS Open Zoomstack data (secure*)]
+| https://eratosthenes.pvretano.com/cubewerx/cubeserv/secure/ogcapi/zoomstack[CubeWerx hosting OS Open Zoomstack data (secure*)]
 | OGC API - Features
 | https://github.com/pvretano[Panagiotis (Peter) A. Vretanos]
 
