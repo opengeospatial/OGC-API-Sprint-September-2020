@@ -29,6 +29,10 @@
 | OGC API - Features
 | https://github.com/cportele[Clemens Portele]
 
+| https://eratosthenes.pvretano.com/cubewerx/cubeserv/default/ogcapi/zoomstack[CubeWerx hosting OS Open Zoomstack data]
+| OGC API - Features
+| https://github.com/pvretano[Panagiotis (Peter) A. Vretanos]
+
 | TBA
 | TBA
 | TBA
