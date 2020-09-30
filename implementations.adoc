@@ -49,6 +49,10 @@
 | OGC API - Features
 | https://github.com/haoliangyu[Haoliang Yu]
 
+| https://www.ogc.uab.cat/OGCFeaturesSprint/ 
+| Client with WMS/WMTS/WFS/SOS and now OGC API - Features, Part 1 and Part 4!!
+| https://github.com/joanma747/MiraMonMapBrowser [Núria Julià and Joan Masó, MiraMon Suite]
+
 | TBA
 | TBA
 | TBA
