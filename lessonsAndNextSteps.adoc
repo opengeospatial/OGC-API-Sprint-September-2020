@@ -2,14 +2,30 @@
 
 == Immediate Lessons
 
-* TBA
-* TBA
+*	OGC API – Features is much simpler to implement than alternatives. The combination of GeoJSON and OGC API – Features is simple to use.
+*	It is possible to implement typical OpenAPI security schemes in OGC API – Features. This was demonstrated using an Authentication Service to authenticate clients and servers.
+*	On the client side, the hello.js JavaScript library made it possible and easy to integrate the authentication calls into the client.
+*	On the client side, authentication was required at the moment the user wanted to insert a feature. 
+*	There will be a need to outline the capabilities that will be included in the Complex Transactions extension. This may include locking, as well as other capabilities.
+*	There is also an issue of several people doing updates from different places. How a client will be aware of new features emerging in the database. PubSub approaches could help: clients getting notifications on changes from others
+*	The sprint has highlighted the key role of the client application in a process that involves transactions.
+
 
 == Next Steps for the innovation side
 
-* TBA
+*	Publish-Subscribe approaches such as OGC PubSub, e-mail notification, Linked Data Notification. Could also query based on the delta updates/changesets approach from recent testbeds.
+*	Web sockets to support the notification of a client that new content has appeared.
+*	Schema vs Schemaless – prototyping of an extension to the API to support schemas, and perhaps fully schemaless APIs.
+*	Change Only Updates potentially could be supported through the Delta Updates and/or the ChangeSet API from Testbed-15. This could be done in future testbeds with Ordnance Survey data, for example. See this video for an overview https://eratosthenes.pvretano.com/Projects/tb15/Videos/CubeWerx_DU_Demo_Video_TB15_DEC2019.mp4
+*	Harmonisation between OGC API – Common and OGC API – Records with regard to metadata is something to look at.
+*	Experiment with additional authentication schemes.
+*	Experiment with use of a HEAD and/or OPTIONS request to support metadata.
+
 
 == Next Steps on the standards side
 
-* TBA
-* TBA
+*	The sprint has helped to provide initial validation. The editors will be looking at the issues from the sprint and will then push the document forward.
+*	The Features API SWG will focus on Part 3 and 4 first.
+*	SWG considering revision of the OGC API – Common the Exception report.
+*	Architecture DWG session on Security Considerations for OGC API, as part of a Sprint post-brief
+
