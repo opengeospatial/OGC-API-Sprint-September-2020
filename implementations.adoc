@@ -1,21 +1,6 @@
 == Implementations
 
-=== Documentation
 
-[#table_documentation,reftext='{table-caption} {counter:table-num}']
-.Documentation
-[cols=",,",width="75%",options="header",align="center"]
-|===
-|Implementation | Type | Contact
-
-| TBA
-| TBA
-| TBA
-
-| TBA
-| TBA
-| TBA
-|===
 
 === Server-side implementations
 
@@ -81,4 +66,22 @@
 | OGC API - Features
 | https://github.com/dstenger[Dirk]
 
+|===
+
+
+=== Documentation
+
+[#table_documentation,reftext='{table-caption} {counter:table-num}']
+.Documentation
+[cols=",,",width="75%",options="header",align="center"]
+|===
+|Implementation | Type | Contact
+
+| https://github.com/opengeospatial/OGC-API-Sprint-September-2020/blob/master/docs/Draft_Spring_Guide_for_OGC_API_Features/Draft_Spring_Guide_for_OGC_API_Features.adoc[Draft tutorial for Spring developers]
+| OGC API - Features
+| TBA
+
+| TBA
+| TBA
+| TBA
 |===
