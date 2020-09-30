@@ -41,6 +41,10 @@
 | OGC API - Features
 | https://github.com/haoliangyu[Haoliang Yu]
 
+| https://www.authenix.eu[Authentix]
+| Authentication Server
+| https://github.com/securedimensions[Andreas Matheus]
+
 | TBA
 | TBA
 | TBA
