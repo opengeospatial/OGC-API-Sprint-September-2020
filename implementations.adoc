@@ -79,7 +79,7 @@
 
 | https://github.com/opengeospatial/OGC-API-Sprint-September-2020/blob/master/docs/Draft_Spring_Guide_for_OGC_API_Features/Draft_Spring_Guide_for_OGC_API_Features.adoc[Draft tutorial for Spring developers]
 | OGC API - Features
-| TBA
+| https://github.com/ghobona[Gobe Hobona]
 
 | TBA
 | TBA
