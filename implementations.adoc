@@ -37,9 +37,9 @@
 | OGC API - Features
 | https://github.com/pvretano[Panagiotis (Peter) A. Vretanos]
 
-| TBA
-| TBA
-| TBA
+| https://github.com/haoliangyu/ogcapi-js[ogcapi-js]
+| OGC API - Features
+| https://github.com/haoliangyu[Haoliang Yu]
 
 | TBA
 | TBA
@@ -56,9 +56,9 @@
 |===
 |Implementation | Type | Contact
 
-| TBA
-| TBA
-| TBA
+| https://github.com/haoliangyu/ogcapi-js[ogcapi-js]
+| OGC API - Features
+| https://github.com/haoliangyu[Haoliang Yu]
 
 | TBA
 | TBA
