@@ -33,6 +33,7 @@ Register at https://portal.ogc.org/public_ogc/register/q3_api.php
 * [Implementations](./implementations.adoc)
 * [Datasets](./Shared_Datasets/README.md)
 * [What is everybody going to be working on?](https://github.com/opengeospatial/OGC-API-Sprint-September-2020/issues/1)
+* [Screenshots](https://github.com/opengeospatial/OGC-API-Sprint-September-2020/blob/master/Screenshots/README.md)
 * [Lessons and Next Steps](./lessonsAndNextSteps.adoc)
 * [Additional Resources](./additionalResources.adoc)
 * [Frequently Asked Questions (FAQs)](./FAQ.adoc)
