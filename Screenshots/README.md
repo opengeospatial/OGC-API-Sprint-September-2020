@@ -15,7 +15,11 @@ This folder shows screenshots of implementations.
 
 ### Global Nomad and GeoServer
 
-![Geobasis NRW](./GlobalNomad.png)
+![Global Nomad and GeoServer - screenshot 0](./GlobalNomad.png)
+
+![Global Nomad and GeoServer - screenshot 1](./GlobalNomad1.png)
+
+![Global Nomad and GeoServer - screenshot 3](./GlobalNomad3.png)
 
 
 ### UAB-CREAF
